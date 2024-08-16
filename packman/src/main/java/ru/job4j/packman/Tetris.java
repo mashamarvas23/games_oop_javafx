@@ -9,13 +9,14 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+
 import javafx.scene.shape.Rectangle;
 import javafx.scene.control.Button;
 import javafx.scene.shape.Line;
-
 
 public class Tetris extends Application {
 
